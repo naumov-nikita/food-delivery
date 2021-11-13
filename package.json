@@ -1,0 +1,22 @@
+{
+  "name": "food-delivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naumov-nikita/food-delivery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naumov-nikita/food-delivery/issues"
+  },
+  "homepage": "https://github.com/naumov-nikita/food-delivery#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
