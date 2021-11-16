@@ -23,30 +23,6 @@
     }
   ],
   "requests": [
-    {
-      "name": "sg",
-      "phone": "+7 938 111 40 05",
-      "id": 1
-    },
-    {
-      "name": "Nikita",
-      "phone": "+7 938 111 40 05",
-      "id": 2
-    },
-    {
-      "name": "Nikita",
-      "phone": "+7 938 111 40 05",
-      "id": 3
-    },
-    {
-      "name": "Nikita",
-      "phone": "+7 938 111 40 05",
-      "id": 4
-    },
-    {
-      "name": "Nikita",
-      "phone": "+7 938 111 40 05",
-      "id": 5
-    }
+    
   ]
 }

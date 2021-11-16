@@ -16,9 +16,20 @@
     "url": "https://github.com/naumov-nikita/food-delivery/issues"
   },
   "homepage": "https://github.com/naumov-nikita/food-delivery#readme",
+  "browsersList": [
+    "> 1%"
+  ],
   "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "core-js": "^3.19.1",
     "json-server": "^0.17.0",
     "webpack": "^5.64.0",
     "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
   }
 }
